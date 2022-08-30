@@ -1,11 +1,11 @@
 # Task Tracker
 Task tracker is made in Angular and is used to track tasks.
 
-![image-20220830224533901](C:\Users\abidw.ABID-WORK-LAPTO\AppData\Roaming\Typora\typora-user-images\image-20220830224533901.png)
+![image-20220830224533901](https://user-images.githubusercontent.com/40558269/187509947-78885f0a-e758-44f1-acdd-d3a7a36ea12f.png)
 
-![image-20220830224559605](C:\Users\abidw.ABID-WORK-LAPTO\AppData\Roaming\Typora\typora-user-images\image-20220830224559605.png)
+![image-20220830224559605](https://user-images.githubusercontent.com/40558269/187509979-357347df-9c19-4deb-bc2b-1f9107730d56.png)
 
-![image-20220830224617532](C:\Users\abidw.ABID-WORK-LAPTO\AppData\Roaming\Typora\typora-user-images\image-20220830224617532.png)
+![image-20220830224615916](https://user-images.githubusercontent.com/40558269/187509994-03373bdd-616a-4be0-8182-40122b21b2fa.png)
 
 Steps to run the application:
 
